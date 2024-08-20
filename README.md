@@ -2,9 +2,9 @@
 - 👀 I’m interested in law school
 - 🌱 I’m currently learning digital humanities.
 - 💞️ I’m looking to collaborate on research projects
-- 📫 How to reach me CUNY emil
+- 📫 How to reach me CUNY email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Been to over 50 wrestling shows.
+- ⚡ Fun fact: I have been to over 50 wrestling shows.
 
 <!---
 MartinBueno133/MartinBueno133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
